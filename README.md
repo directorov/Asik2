@@ -1,6 +1,5 @@
-# Assignment 2: OOP Principles in Java
-**Course:** Introduction to Programming
-**Student:** [Твое Имя]
+# Assignment 2
+[Yermukhambetov Omirzak]
 
 ## Description
 This project demonstrates the use of:
